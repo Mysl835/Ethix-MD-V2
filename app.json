@@ -8,9 +8,9 @@
   "stack": "container",
   "env": { 
       "SESSION_ID": {
-      "description": "your session id",
+      "description": "Ethix-MD&BarW5zzg",
       "required": true,
-      "value": ""
+      "value": "Ethix-MD&BarW5zzg"
     },
     "MODE": {
       "description": "mode public or self",
@@ -30,7 +30,7 @@
     "AUTO_TYPING": {
       "description": "make it true if you want bot to show typing",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_RECORDING": {
       "description": "make it true if you want bot to show recording audio",
@@ -55,7 +55,7 @@
     "PREFIX": {
       "description": "Your Bot Prefix default (.)",
       "required": false,
-      "value": ""
+      "value": "."
     }
     },
     "buildpacks": [
